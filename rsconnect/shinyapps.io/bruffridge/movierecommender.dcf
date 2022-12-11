@@ -1,0 +1,11 @@
+name: movierecommender
+title:
+username:
+account: bruffridge
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7829595
+bundleId: 6621597
+url: https://bruffridge.shinyapps.io/movierecommender/
+when: 1670719127.87335
+lastSyncTime: 1670719127.87336
